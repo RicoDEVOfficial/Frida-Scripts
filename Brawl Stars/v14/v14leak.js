@@ -1,4 +1,4 @@
-// v14 script leaked by @AlbyxHacc, i don't see port here, only for IP
+// v14 leak by soufgame, albyx dont steal soufgame script bro
 var _0x3a32 = ["decode", "setByteArray", "options", "pthread_cond_signal", "context", "equals", "detach", "exports", "modules", "findModuleByName", "enumerateRangesSync", "---", "base", "length", "push", "size", "protection", "attach", "findExportByName", "libc.so", "readUtf8String", "writeUtf8String", "use", "java.lang.System", "java.lang.Runtime", "loadLibrary", "dalvik.system.VMStack", "implementation", "getRuntime", "loadLibrary0", "getCallingClassLoader", "getByteStream", "add", "getVersion", "setVersion", "writeInt", "getMessageType", "readPointer", "int", "encode", "void", "pointer", "getOffset", "getByteArray", "writePointer", "getLength", "readInt", "setLength", "setEncodingLength", "writeU8", "readU8", "libg.so", "pthread_mutex_lock", "memmove", "sub", "replace", "setMessageType", "setMessageVersion", "recvfrom"];
 (function (_0x5de7e9, _0x4230cb) {
   var _0x2e6a50 = function (_0xdfe154) {
