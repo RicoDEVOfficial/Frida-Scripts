@@ -1,5 +1,6 @@
 // Leaked by @soufgameV2 , https://t.me/AllBSModsTG
 // im rico, thank you soufgame, if u see this, good luck in your repa bro :D
+// i heard that this shit is actually for v18 and not v17, souf, yk what to do :D
 var cache = {};
 
 const SERVER_CONNECTION = 0xA2B454;
